@@ -1,0 +1,89 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(135deg, #141e30, #243b55);
+    color: #ffffff;
+}
+
+header {
+    text-align: center;
+    padding: 60px 20px;
+}
+
+header h1 {
+    font-size: 48px;
+    margin-bottom: 10px;
+}
+
+header h2 {
+    font-size: 26px;
+    color: #00e6e6;
+}
+
+header p {
+    font-size: 18px;
+    opacity: 0.9;
+}
+
+section {
+    max-width: 900px;
+    margin: auto;
+    padding: 30px 20px;
+}
+
+h3 {
+    color: #00e6e6;
+    margin-bottom: 15px;
+}
+
+.skills ul {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+
+.skills li {
+    background: #1f2a44;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.card {
+    background: #1f2a44;
+    padding: 15px;
+    border-radius: 12px;
+    margin-bottom: 15px;
+}
+
+.card h4 {
+    margin: 0;
+}
+
+.card span {
+    font-size: 14px;
+    opacity: 0.8;
+}
+
+.btn {
+    display: inline-block;
+    padding: 12px 20px;
+    margin-right: 10px;
+    background: #00e6e6;
+    color: #000;
+    text-decoration: none;
+    border-radius: 25px;
+    font-weight: bold;
+}
+
+.btn.secondary {
+    background: transparent;
+    border: 2px solid #00e6e6;
+    color: #00e6e6;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #0f172a;
+    font-size: 14px;
+}

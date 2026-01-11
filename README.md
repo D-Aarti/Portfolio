@@ -5,9 +5,6 @@
 ## Welcome to my personal portfolio website!
 This portfolio highlights my skills, experience, and projects as a Data Analyst & SQL Developer, built using HTML and CSS and hosted on GitHub Pages.
 
-🔗 Live Portfolio:
-https://<your-github-username>.github.io/<your-repo-name>/
-
  ## About Me
 
 I am a results-driven MCA graduate with hands-on experience in SQL, MySQL, Oracle SQL, Power BI, Python, and Advanced Excel.
